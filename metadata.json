@@ -1,0 +1,7 @@
+{
+  "name": "LeadGen AI Pro",
+  "description": "A high-performance B2B lead generation tool that identifies potential clients, performs AI-driven gap analysis, and crafts hyper-personalized outreach emails using Gemini 2.5 Flash.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
